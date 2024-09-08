@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **sanskarlohani73@gmail.com**
+- 📫 How to reach me **lohani12.sanskar@gmail.com**
 
 - ⚡ Fun fact **I think I am a Hacker**
 
