@@ -24,4 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskarlohani&show_icons=true&locale=en" alt="sanskarlohani" /></p>
 
+[![An image of @sanskarlohani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanskarlohani)](https://holopin.io/@sanskarlohani)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarlohani&" alt="sanskarlohani" /></p>
