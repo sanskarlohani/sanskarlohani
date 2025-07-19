@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/sanskarlohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanskarlohani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@sanskarlohani12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sanskarlohani12" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/@sanskarlohani201](https://www.hackerrank.com/profile/sanskarlohani201)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sanskarlohani201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sanskarlohani201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sanskarlohani201" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sxzykbku5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sxzykbku5p" height="30" width="40" /></a>
 </p>
 
