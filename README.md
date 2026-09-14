@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android App Development Using Jetpack Compose, MVVM**
 
-- 💬 Ask me about **Kotlin, java, Python**
+- 💬 Ask me about **Kotlin, Flutter, Dart, java, Python**
 
 - 📫 How to reach me **lohani12.sanskar@gmail.com**
 
