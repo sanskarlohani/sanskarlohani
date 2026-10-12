@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskarlohani" alt="sanskarlohani" /></a> </p>
 
-- 🌱 I’m currently learning **Android App Development Using Jetpack Compose, MVVM**
+- 🌱 I’m currently Building Mobile Application (Native, Cross as well) Using Android Native (Kotlin), Jetpack Compose, MVVM, Flutter**
 
 - 💬 Ask me about **Kotlin, Flutter, Dart, java, Python**
 
